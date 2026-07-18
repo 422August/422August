@@ -8,7 +8,7 @@ A high school student and aspiring computer science enthusiast who loves diving 
 - **Club:** Software Development Club
 
 ## Certifications & Goals
-- **Current Goal:** Developing interesting projects for humans.
+- **Current Goal:** Learning ML and DL.
 - **Aspirations:** Training NLP models and exploring artificial intelligence technologies.
 
 ## Technical Skills & Interests
