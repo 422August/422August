@@ -3,19 +3,20 @@ A high school student and aspiring computer science enthusiast who loves diving 
 ## Information
 - **Location:** Taiwan (UTC+8)
 - **Pronouns:** she/her
-- **Club:** Software Development Club
 
 ## Certifications 
 | Certification | Level / Score | Language / Tools | Issuing Org |
 | :--- | :---: | :---: | :--- |
 | **APCS** (Advanced Placement Computer Science) | Concepts: 4/5 <br> Proficiency: 2/5 | Python | NTNU & Ministry of Education |
 
+## Experience
+- **President** @ High School Software Development Club
+- **School System Development:** Designed deployed a school-wide system, used for cleaning and task management.
+  - Building with third-party databases
+
 ## Goals
 - **Current Goal:** Learning ML and DL.
 - **Aspirations:** Training NLP models and exploring artificial intelligence technologies.
-
-## Technical Skills & Interests
-- **Programming Languages:** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - **Core Interests:** Artificial Intelligence , Algorithm Design, Competitive Programming, Software Development, Information Security
 
 ## GitHub Performance
