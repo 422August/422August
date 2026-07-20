@@ -28,7 +28,7 @@ A high school student and aspiring computer science enthusiast who loves diving 
 ## Goals
 - **Current Goal:** Learning ML and DL.
 - **Aspirations:** Training NLP models and exploring artificial intelligence technologies.
-- **Core Interests:** Artificial Intelligence •Algorithm Design •Software Development • Information Security
+- **Core Interests:** Artificial Intelligence • Algorithm Design • Software Development • Information Security
 
 ## GitHub Performance
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=422August&hide_title=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=422August&hide_title=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)<br>
